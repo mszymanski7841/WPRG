@@ -7,10 +7,10 @@
 </body>
 </html>
 <?php
-$user_IP = $_SERVER['REMOTE_ADDR'];
+$myIP = $_SERVER['REMOTE_ADDR'];
 $filename = "ip.txt";
 $IPs = file($filename, FILE_IGNORE_NEW_LINES);
-if(in_array($user_IP, $IPs)){
+if(in_array($myIP, $IPs)){
     include ('strona1.php');
 }else{
     include ('strona2.php');
