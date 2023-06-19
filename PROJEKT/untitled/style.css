@@ -1,0 +1,194 @@
+body{
+    background-image: url("brown-gradient-yellow-linear-1920x1080-c2-ffffe0-a0522d-a-210-f-14.jpg");
+}
+
+
+#ih1{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+
+}
+#ih2{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+#serwis{
+    text-align: center;
+    font-size:20px;
+    color: black;
+}
+
+
+
+.add {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.addedBook{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.table{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainpage{
+    text-align: center;
+    margin-top: 125px;
+}
+
+.mainpage2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.forgotpass{
+    text-align: center;
+}
+
+.logout{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    width: 100px;
+    transition: transform .2s;
+}
+
+.error{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.logged{
+    position: absolute;
+    top: 7px;
+    right: 160px;
+}
+
+.loggedmsg{
+    position: absolute;
+    top: -11px;
+    right: 180px;
+}
+
+.added{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#srodekbox {
+    text-align: center;
+}
+
+
+
+.zoom{
+    transition: transform .2s;
+    width: 120px;
+
+}
+
+.zoom:hover{
+    transform: scale(1.5);
+}
+
+.inputs {
+    width: 12%;
+    height: 25px;
+    text-align: center;
+
+}
+
+#rejestr {
+    position: absolute;
+    top: 20;
+    right: 50;
+    width: 100px;
+}
+
+#buttons {
+text-align: center;
+    margin-top: 125;
+}
+#password{
+    position: absolute;
+    top: 360px;
+    left: 866;
+}
+#password2{
+    position: absolute;
+    top: 350px;
+    left: 885;
+}
+
+.userlist{
+    margin-top: 100;
+    margin-left: 43%;
+}
+.tabela-zaw{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+
+.book{
+    text-align: center;
+}
+
+.bookopt{
+    width: 20%;
+    height: auto;
+}
+.searchbarp{
+    margin-left: 70%;
+}
+.searchbar{
+    width: 600px;
+}
+.row{
+    margin-top: -150px;
+}
+.date{
+    position: absolute;
+    top: 100;
+    right: 30;
+}
+.centertable{
+    position: relative;
+text-align: center;
+    left: 660px;
+}
+.aboutus{
+    text-align: center;
+    margin-top: 200;
+    margin-left: auto;
+}
+.library{
+    text-align: center;
+    margin-top: 100;
+}
+.roverpng{
+    margin-top: 100px;
+    margin-left: 80%;
+    width: 15%;
+    height: auto;
+}
+.okladka{
+    height: 250px;
+}
